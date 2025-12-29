@@ -1,4 +1,4 @@
-export const BACKEND_URL = `https://drovmart.com`;
+export const BACKEND_URL = `https://backend.drovmart.com`;
 
 /** DON'T TOUCH HERE */
 export const BASE_URL = `${BACKEND_URL}/api/v2`;
